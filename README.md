@@ -1,6 +1,6 @@
 # Bakso-Simulator
 Credit = Andy Lukito = https://www.youtube.com/@AndyLukito
-
+itch.io= https://razkha.itch.io/bakso-simulator
 ---------------------------------------------------------------------------------------------------
 
 Pernahkah kamu bermimpi untuk memiliki usaha baksomu sendiri? Tidak usah bermimpi lagi, sekarang kamu bisa dengan Bakso Simulator!
