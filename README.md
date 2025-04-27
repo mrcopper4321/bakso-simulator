@@ -1,0 +1,2 @@
+# bakso-simulator
+A game
