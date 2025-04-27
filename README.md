@@ -1,4 +1,4 @@
-# bakso-simulator
+# Bakso-Simulator
 Credit = Andy Lukito = https://www.youtube.com/@AndyLukito
 
 ---------------------------------------------------------------------------------------------------
