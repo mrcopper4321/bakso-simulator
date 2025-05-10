@@ -1,5 +1,5 @@
 # Bakso-Simulator
-Credit = Andy Lukito = https://www.youtube.com/@AndyLukito
+Credit = Andy Lukito = https://www.youtube.com/@AndyLukito Download Game Di=
 itch.io= https://razkha.itch.io/bakso-simulator
 ---------------------------------------------------------------------------------------------------
 
@@ -36,6 +36,7 @@ Prosesor: x86, x64 architecture with SSE2 instruction set support
 Grafis: DX10, DX11, DX12 capable
 DirectX: Versi 10
 Penyimpanan: 1 GB ruang tersedia
-Also See =
+=======================================================
+Info Lebih Lanjut Lihat Di Website Resmi Blocky Studios= https://sites.google.com/view/blockystudios/beranda
 
 
