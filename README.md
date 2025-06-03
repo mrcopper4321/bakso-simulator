@@ -3,7 +3,7 @@ ENG= https://github.com/mrcopper4321/bakso-simulator/blob/main/readme.md%20(Engl
 
 Credit = Andy Lukito = https://www.youtube.com/@AndyLukito Download Game Di=
 itch.io= https://razkha.itch.io/bakso-simulator
----------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Pernahkah kamu bermimpi untuk memiliki usaha baksomu sendiri? Tidak usah bermimpi lagi, sekarang kamu bisa dengan Bakso Simulator!
 Di dunia ini, kamu akan membuka usaha bakso dengan teman lamamu, sembari membantu warga kota dan memecahkan seluruh misteri yang ada!
