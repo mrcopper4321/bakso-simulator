@@ -1,7 +1,8 @@
 # Bakso-Simulator
 ENG= https://github.com/mrcopper4321/bakso-simulator/blob/main/readme.md%20(English)
 
-Credit = Andy Lukito = https://www.youtube.com/@AndyLukito Download Game Di=
+Credit = Andy Lukito = https://www.youtube.com/@AndyLukito 
+Download Game Di=
 itch.io= https://razkha.itch.io/bakso-simulator
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
